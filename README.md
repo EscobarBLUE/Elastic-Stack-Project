@@ -1,5 +1,5 @@
 # Elastic-Stack-Project
-Azure cloud network set up and deployment, with ansible and multiple VMs to run a DVWA. Elastic Stack set up and configuration to monitor the cloud network.
+Azure cloud network set up and deployment, with ansible and multiple VMs set up to run a Web Application. Elastic Stack set up and configuration to monitor the cloud network.
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
