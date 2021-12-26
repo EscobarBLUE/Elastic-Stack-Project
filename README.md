@@ -42,15 +42,14 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 -What does Metricbeat record? Metricbeat takes the metrics and statistics that it collects and ships them to the output that you specify, such as Elasticsearch or Logstash.
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
 | Name     | Function  | IP Address     | Operating System |
 |----------|---------- |----------------|------------------|
-| Jump Box | Gateway   | 10.0.0.4       | Git Bash         |
-| Web1     | Web Server| 10.0.0.5       | Git Bash         |
-| Web2     | Web Server| 10.0.0.6       | Git Bash         |
-| ELK      | Elk Server| 10.1.0.4       | Git Bash         |
-| Load Bal.| Load Bal. | Static Ext. IP | Git Bash         |
+| Jump Box | Gateway   | 10.0.0.4       | Linux            |
+| Web1     | Web Server| 10.0.0.5       | Linux            |
+| Web2     | Web Server| 10.0.0.6       | Linux            |
+| ELK      | Elk Server| 10.1.0.4       | Linux            |
+| Load Bal.| Load Bal. | Static Ext. IP | Linux            |
 
 ### Access Policies
 
