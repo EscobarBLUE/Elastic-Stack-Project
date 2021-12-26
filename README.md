@@ -11,10 +11,11 @@ The files in this repository were used to configure the network depicted below.
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Ansible folder may be used to install only certain pieces of it, such as Filebeat.
 
   
-[My Play Book Yml](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/my-playbook1.yml)
-~/Elastic-Stack-Project/Ansible/Elk-playbook.yml
-~/Elastic-Stack-Project/Ansible/Filebeat-playbook.yml
-~/Elastic-Stack-Project/Ansible/Metricbeat-config.yml
+[My Play-Book YML](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/my-playbook1.yml) Ansible Set-up and Configuration.
+[ELK VM Play-Book YML](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/elk-playbook.yml) ELK VM Install and Launch.
+[FileBeat Play-Book YML](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/Filebeat-playbook.yml) ELK FileBeat App Install and Launch.
+[MetricBeat Play-Book YML](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/Metricbeat-playbook.yml) ELK MetricBeat App Install and Launch.
+
 
 
 This document contains the following details:
