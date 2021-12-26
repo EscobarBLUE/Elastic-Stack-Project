@@ -12,8 +12,11 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   
 [My Play-Book YML](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/my-playbook1.yml) Ansible Set-up and Configuration.
+
 [ELK VM Play-Book YML](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/elk-playbook.yml) ELK VM Install and Launch.
+
 [FileBeat Play-Book YML](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/Filebeat-playbook.yml) ELK FileBeat App Install and Launch.
+
 [MetricBeat Play-Book YML](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Ansible/Metricbeat-playbook.yml) ELK MetricBeat App Install and Launch.
 
 
