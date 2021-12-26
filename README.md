@@ -4,7 +4,7 @@ Azure cloud network set up and deployment, with ansible and multiple VMs set up 
 
 The files in this repository were used to configure the network depicted below.
 
-~/Elastic-Stack-Project/Diagrams/Azure_Network_Diagram.drawio
+~/Elastic-Stack-Project/Diagrams/ELK Stack Project.drawio.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Ansible folder may be used to install only certain pieces of it, such as Filebeat.
 
