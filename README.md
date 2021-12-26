@@ -3,6 +3,9 @@ Azure cloud network set up and deployment, with ansible and multiple VMs set up 
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
+ 
+![alt text](https://github.com/EscobarBLUE/Elastic-Stack-Project/blob/main/Diagrams/ELK-Stack-Project.drawio.png)
+
 
 ~/Elastic-Stack-Project/Diagrams/ELK-Stack-Project.drawio.png
 
